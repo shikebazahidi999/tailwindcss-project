@@ -23,6 +23,7 @@
     width: 200px;
     border: 12px;
     border-radius: 12px;
+    display: inline-block;
    
 }
 .search:focus-within{
