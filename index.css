@@ -24,6 +24,7 @@
     border: 12px;
     border-radius: 12px;
     display: inline-block;
+    gap: 12px;
    
 }
 .search:focus-within{
