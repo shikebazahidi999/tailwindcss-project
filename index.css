@@ -35,6 +35,6 @@
 }
 .divimg{
     margin-top: 30px;
-    display: inline-block;
+    display: inline;
     grid-area: item2;
 }
